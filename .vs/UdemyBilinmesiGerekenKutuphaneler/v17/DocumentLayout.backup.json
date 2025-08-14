@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemybilinmesigerekenkutuphaneler\\solid.app\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemybilinmesigerekenkutuphaneler\\solid.app\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SRPGood.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPGood.cs",
+              "RelativeDocumentMoniker": "Solid.App\\SRPGood.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPGood.cs",
+              "RelativeToolTip": "Solid.App\\SRPGood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:11:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SRPBad.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPBad.cs",
+              "RelativeDocumentMoniker": "Solid.App\\SRPBad.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPBad.cs",
+              "RelativeToolTip": "Solid.App\\SRPBad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T15:53:24.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
