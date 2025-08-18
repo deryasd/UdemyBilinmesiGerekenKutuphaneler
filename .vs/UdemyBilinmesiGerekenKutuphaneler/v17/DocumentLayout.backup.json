@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\",
+  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemybilinmesigerekenkutuphaneler\\solid.app\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\solid.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemybilinmesigerekenkutuphaneler\\solid.app\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\solid.app\\dipgoodandbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\dipgoodandbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SRPGood.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPGood.cs",
-              "RelativeDocumentMoniker": "Solid.App\\SRPGood.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPGood.cs",
-              "RelativeToolTip": "Solid.App\\SRPGood.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Program.cs",
+              "RelativeDocumentMoniker": "Solid.App\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Program.cs",
+              "RelativeToolTip": "Solid.App\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:11:53.112Z",
+              "WhenOpened": "2025-08-16T15:29:57.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SRPBad.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPBad.cs",
-              "RelativeDocumentMoniker": "Solid.App\\SRPBad.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\SRPBad.cs",
-              "RelativeToolTip": "Solid.App\\SRPBad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "DIPGoodAndBad.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\DIPGoodAndBad.cs",
+              "RelativeDocumentMoniker": "Solid.App\\DIPGoodAndBad.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\DIPGoodAndBad.cs",
+              "RelativeToolTip": "Solid.App\\DIPGoodAndBad.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T15:53:24.735Z",
+              "WhenOpened": "2025-08-16T15:27:03.894Z",
               "EditorCaption": ""
             }
           ]

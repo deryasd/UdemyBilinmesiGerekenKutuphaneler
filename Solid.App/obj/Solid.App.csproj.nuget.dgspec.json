@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj": {}
+    "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj": {
+    "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj",
+        "projectUniqueName": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj",
         "projectName": "Solid.App",
-        "projectPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj",
+        "projectPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Solid.App.csproj",
         "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\obj\\",
+        "outputPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
