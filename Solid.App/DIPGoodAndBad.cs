@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid.App.DIPGoodAndBad
+namespace Solid.App
 {
     public class ProductService
     {

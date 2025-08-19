@@ -38,7 +38,7 @@
     {
         public decimal Calculate(decimal salary, ISalaryCalculate salaryCalculate)
         {
-            return (salaryCalculate.Calculate(salary));
+            return salaryCalculate.Calculate(salary);
         }
 
     }

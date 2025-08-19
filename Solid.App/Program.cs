@@ -1,8 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Solid.App.DIPGoodAndBad;
-using Solid.App.LSPGood;
-using Solid.App.OCPGood2;
-
 Console.WriteLine("Hello, World!");
 
 //SalaryCalculater salaryCalculater = new SalaryCalculater();
@@ -46,6 +42,6 @@ Console.WriteLine("Hello, World!");
 //phone = new Nokia3310();
 //phone.Call();
 
-var productService = new ProductService(new ProductRepositoryFromOracle());
+//var productService = new ProductService(new ProductRepositoryFromOracle());
 
-productService.GetAll().ForEach(x =>  Console.WriteLine(x));
+//productService.GetAll().ForEach(x => Console.WriteLine(x));

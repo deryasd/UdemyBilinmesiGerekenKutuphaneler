@@ -1,4 +1,4 @@
-﻿namespace Solid.App.SRP.Bad
+﻿namespace Solid.App.SRPBad
 {
     public class Product
     {

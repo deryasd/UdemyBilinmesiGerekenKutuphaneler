@@ -2,7 +2,7 @@
 {
     public interface ITakePhoto
     {
-        public override void TakePhoto();
+        //public override void TakePhoto();
     }
     public abstract class BasePhone
     {

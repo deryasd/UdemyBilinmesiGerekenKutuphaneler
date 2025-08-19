@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid.App.ISPGoodAndBad
+namespace Solid.App
 {
     //1. Class Library Read Impl
     //2. Class Library Create/Update/Delete

@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "GetCustomers",
+    "RelativePath": "api/CustomersApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_1_FluentValidationApp.Web.Models.Customer, 1_FluentValidationApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "PostCustomer",
+    "RelativePath": "api/CustomersApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "_1_FluentValidationApp.Web.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_1_FluentValidationApp.Web.Models.Customer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/CustomersApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_1_FluentValidationApp.Web.Models.Customer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "PutCustomer",
+    "RelativePath": "api/CustomersApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "customer",
+        "Type": "_1_FluentValidationApp.Web.Models.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/CustomersApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

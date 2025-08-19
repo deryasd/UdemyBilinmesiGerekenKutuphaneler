@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\solid.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\solid.app\\dipgoodandbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79913AEF-64EB-481B-AB85-5804838481DB}|Solid.App\\Solid.App.csproj|solutionrelative:solid.app\\dipgoodandbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA27299-D464-408A-A386-A114EE402A85}|1_FluentValidationApp.Web\\1_FluentValidationApp.Web.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\1_fluentvalidationapp.web\\fluentvalidators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA27299-D464-408A-A386-A114EE402A85}|1_FluentValidationApp.Web\\1_FluentValidationApp.Web.csproj|solutionrelative:1_fluentvalidationapp.web\\fluentvalidators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Program.cs",
-              "RelativeDocumentMoniker": "Solid.App\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\Program.cs",
-              "RelativeToolTip": "Solid.App\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\1_FluentValidationApp.Web\\FluentValidators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "1_FluentValidationApp.Web\\FluentValidators\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\1_FluentValidationApp.Web\\FluentValidators\\CustomerValidator.cs*",
+              "RelativeToolTip": "1_FluentValidationApp.Web\\FluentValidators\\CustomerValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:29:57.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DIPGoodAndBad.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\DIPGoodAndBad.cs",
-              "RelativeDocumentMoniker": "Solid.App\\DIPGoodAndBad.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\Solid.App\\DIPGoodAndBad.cs",
-              "RelativeToolTip": "Solid.App\\DIPGoodAndBad.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:27:03.894Z",
+              "WhenOpened": "2025-08-19T11:10:41.205Z",
               "EditorCaption": ""
             }
           ]

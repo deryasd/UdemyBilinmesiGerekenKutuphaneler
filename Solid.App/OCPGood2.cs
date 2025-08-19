@@ -1,6 +1,4 @@
-﻿
-
-namespace Solid.App.OCPGood2
+﻿namespace Solid.App.OCPGood2
 {
 
     public class LowSalaryCalculate 
