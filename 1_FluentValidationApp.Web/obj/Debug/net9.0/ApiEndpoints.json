@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[_1_FluentValidationApp.Web.Models.Customer, 1_FluentValidationApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[_1_FluentValidationApp.Web.DTOs.CustomerDto, 1_FluentValidationApp.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -106,6 +106,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_1_FluentValidationApp.Web.Controllers.CustomersApiController",
+    "Method": "MappingOrnek",
+    "RelativePath": "api/CustomersApi/MappingOrnek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

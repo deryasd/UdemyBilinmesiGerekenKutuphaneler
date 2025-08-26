@@ -11,8 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{B1E968AC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_FluentValidationApp.Web", "1_FluentValidationApp.Web\1_FluentValidationApp.Web.csproj", "{4BA27299-D464-408A-A386-A114EE402A85}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoMapperApp", "AutoMapperApp", "{4024001E-1D2E-424A-9246-97649FAED240}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

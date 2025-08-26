@@ -337,3 +337,5 @@ C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.W
 C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.Web\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.Web\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.Web\obj\Debug\net9.0\1_FluentValidationApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.Web\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\1_FluentValidationApp.Web\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
