@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_FluentValidationApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28241206f6c0ae694b62e53e6beb7ab28ecc7a85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d5a8e37e884a831d080781b4a7085bdf82c3fe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_FluentValidationApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_FluentValidationApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
