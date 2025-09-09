@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmidgeApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d5a8e37e884a831d080781b4a7085bdf82c3fe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc19c85884223dca40aaf2ffcdd0c052c474af9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmidgeApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmidgeApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

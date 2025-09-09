@@ -3,23 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\hangfire.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|solutionrelative:hangfire.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\hangfire.web\\backgroundjobs\\continuationsjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|solutionrelative:hangfire.web\\backgroundjobs\\continuationsjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\hangfire.web\\backgroundjobs\\recurringjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|solutionrelative:hangfire.web\\backgroundjobs\\recurringjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\filter\\customhandleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\filter\\customhandleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\hangfire.web\\backgroundjobs\\delayedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A99891-5628-4648-885E-ABE9B4C3DDAA}|HangFire.Web\\HangFire.Web.csproj|solutionrelative:hangfire.web\\backgroundjobs\\delayedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,67 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContinuationsJobs.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\ContinuationsJobs.cs",
-              "RelativeDocumentMoniker": "HangFire.Web\\BackgroundJobs\\ContinuationsJobs.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\ContinuationsJobs.cs",
-              "RelativeToolTip": "HangFire.Web\\BackgroundJobs\\ContinuationsJobs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CustomHandleExceptionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
+              "RelativeToolTip": "ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:15:44.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HangFire.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HangFire.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwC4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:10:53.583Z",
+              "WhenOpened": "2025-09-09T10:40:44.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-03T13:08:04.099Z",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ErrorHandling\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ErrorHandling\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T08:47:04.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DelayedJobs.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\DelayedJobs.cs",
-              "RelativeDocumentMoniker": "HangFire.Web\\BackgroundJobs\\DelayedJobs.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\DelayedJobs.cs",
-              "RelativeToolTip": "HangFire.Web\\BackgroundJobs\\DelayedJobs.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBMAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ErrorHandling\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ErrorHandling\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:07:54.751Z",
+              "WhenOpened": "2025-09-09T08:26:23.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecurringJobs.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\RecurringJobs.cs",
-              "RelativeDocumentMoniker": "HangFire.Web\\BackgroundJobs\\RecurringJobs.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\HangFire.Web\\BackgroundJobs\\RecurringJobs.cs",
-              "RelativeToolTip": "HangFire.Web\\BackgroundJobs\\RecurringJobs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ErrorHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Program.cs",
+              "RelativeToolTip": "ErrorHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:02:54.725Z",
+              "WhenOpened": "2025-09-09T08:22:28.823Z",
               "EditorCaption": ""
             }
           ]
