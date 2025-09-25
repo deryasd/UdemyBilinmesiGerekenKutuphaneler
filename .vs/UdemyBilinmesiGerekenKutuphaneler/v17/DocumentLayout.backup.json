@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\views\\home\\error2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\views\\home\\error2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\views\\home\\error1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\views\\home\\error1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\filter\\customhandleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\filter\\customhandleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\errorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB}|ErrorHandling\\ErrorHandling.csproj|solutionrelative:errorhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,106 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ErrorHandling\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ErrorHandling\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T11:07:14.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ErrorHandling\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ErrorHandling\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\nlog.config",
+              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\nlog.config",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\nlog.config",
+              "RelativeToolTip": "LoggingNLogLibrary1\\nlog.config",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-25T08:19:59.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "LoggingNLogLibrary1\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:06:54.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error2.cshtml",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Home\\Error2.cshtml",
-              "RelativeDocumentMoniker": "ErrorHandling\\Views\\Home\\Error2.cshtml",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Home\\Error2.cshtml",
-              "RelativeToolTip": "ErrorHandling\\Views\\Home\\Error2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T10:44:41.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error1.cshtml",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Home\\Error1.cshtml",
-              "RelativeDocumentMoniker": "ErrorHandling\\Views\\Home\\Error1.cshtml",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Home\\Error1.cshtml",
-              "RelativeToolTip": "ErrorHandling\\Views\\Home\\Error1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T10:44:07.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomHandleExceptionFilterAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
-              "RelativeDocumentMoniker": "ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
-              "RelativeToolTip": "ErrorHandling\\Filter\\CustomHandleExceptionFilterAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:40:44.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "ErrorHandling\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "ErrorHandling\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T08:47:04.892Z",
+              "WhenOpened": "2025-09-25T08:41:24.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ErrorHandling\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ErrorHandling\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Models\\Log.cs",
+              "RelativeToolTip": "LoggingNLogLibrary1\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:26:23.583Z",
+              "WhenOpened": "2025-09-25T08:29:01.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Program.cs",
-              "RelativeDocumentMoniker": "ErrorHandling\\Program.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\ErrorHandling\\Program.cs",
-              "RelativeToolTip": "ErrorHandling\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "LoggingNLogLibrary1\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:22:28.823Z",
+              "WhenOpened": "2025-09-25T08:24:48.949Z",
               "EditorCaption": ""
             }
           ]

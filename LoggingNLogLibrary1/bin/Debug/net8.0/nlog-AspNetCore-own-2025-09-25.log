@@ -1,0 +1,68 @@
+2025-09-25 11:23:05.8813|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:23:06.5024|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7083 |url: |action: 
+2025-09-25 11:23:06.5024|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5017 |url: |action: 
+2025-09-25 11:23:06.5393|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2025-09-25 11:23:06.5393|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2025-09-25 11:23:06.5393|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1 |url: |action: 
+2025-09-25 11:32:39.0620|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:32:39.1701|0|ERROR|LoggingNLogLibrary1.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1\Program.cs:line 17|url: |action: 
+2025-09-25 11:32:53.7194|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:32:53.8322|0|ERROR|LoggingNLogLibrary1.Program|Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at System.Diagnostics.DiagnosticSource.Write[T](String name, T value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1\Program.cs:line 17|url: |action: 
+2025-09-25 11:43:54.3437|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:43:55.4672|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7083 |url: |action: 
+2025-09-25 11:43:55.4729|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5017 |url: |action: 
+2025-09-25 11:43:55.5826|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2025-09-25 11:43:55.5826|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2025-09-25 11:43:55.5826|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1 |url: |action: 
+2025-09-25 11:43:57.3119|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:43:59.2416|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:44:01.9222|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:49:05.8097|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:49:07.1643|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7083 |url: |action: 
+2025-09-25 11:49:07.1754|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5017 |url: |action: 
+2025-09-25 11:49:07.2556|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2025-09-25 11:49:07.2556|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2025-09-25 11:49:07.2556|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1 |url: |action: 
+2025-09-25 11:49:08.6780|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:49:08.6780|0|WARN|LoggingNLogLibrary1.Controllers.HomeController|This is a warning message. |url: https://localhost/|action: Index
+2025-09-25 11:49:08.6898|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|This is an error message. |url: https://localhost/|action: Index
+2025-09-25 11:49:10.7501|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:49:10.7650|0|WARN|LoggingNLogLibrary1.Controllers.HomeController|This is a warning message. |url: https://localhost/|action: Index
+2025-09-25 11:49:10.7650|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|This is an error message. |url: https://localhost/|action: Index
+2025-09-25 11:50:44.0527|0|DEBUG|LoggingNLogLibrary1.Program|init main |url: |action: 
+2025-09-25 11:50:45.1142|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7083 |url: |action: 
+2025-09-25 11:50:45.1142|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5017 |url: |action: 
+2025-09-25 11:50:45.2836|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2025-09-25 11:50:45.2836|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2025-09-25 11:50:45.3066|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1 |url: |action: 
+2025-09-25 11:50:46.7136|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|Attempted to divide by zero. Value1: 5, Value2: 0 System.DivideByZeroException: Attempted to divide by zero.
+   at LoggingNLogLibrary1.Controllers.HomeController.Index() in C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1\Controllers\HomeController.cs:line 22|url: https://localhost/|action: Index
+2025-09-25 11:50:46.7383|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:50:46.7383|0|WARN|LoggingNLogLibrary1.Controllers.HomeController|This is a warning message. |url: https://localhost/|action: Index
+2025-09-25 11:50:46.7383|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|This is an error message. |url: https://localhost/|action: Index
+2025-09-25 11:50:48.1293|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|Attempted to divide by zero. Value1: 5, Value2: 0 System.DivideByZeroException: Attempted to divide by zero.
+   at LoggingNLogLibrary1.Controllers.HomeController.Index() in C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1\Controllers\HomeController.cs:line 22|url: https://localhost/|action: Index
+2025-09-25 11:50:48.1293|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:50:48.1293|0|WARN|LoggingNLogLibrary1.Controllers.HomeController|This is a warning message. |url: https://localhost/|action: Index
+2025-09-25 11:50:48.1293|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|This is an error message. |url: https://localhost/|action: Index
+2025-09-25 11:50:51.2490|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|Attempted to divide by zero. Value1: 5, Value2: 0 System.DivideByZeroException: Attempted to divide by zero.
+   at LoggingNLogLibrary1.Controllers.HomeController.Index() in C:\Users\esind\Desktop\UdemyBilinmesiGerekenKutuphaneler\LoggingNLogLibrary1\Controllers\HomeController.cs:line 22|url: https://localhost/|action: Index
+2025-09-25 11:50:51.2509|0|INFO|LoggingNLogLibrary1.Controllers.HomeController|This is an informational message. |url: https://localhost/|action: Index
+2025-09-25 11:50:51.2509|0|WARN|LoggingNLogLibrary1.Controllers.HomeController|This is a warning message. |url: https://localhost/|action: Index
+2025-09-25 11:50:51.2509|0|ERROR|LoggingNLogLibrary1.Controllers.HomeController|This is an error message. |url: https://localhost/|action: Index
