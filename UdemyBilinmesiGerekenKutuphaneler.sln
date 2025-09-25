@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingNLogLibrary1", "LoggingNLogLibrary1\LoggingNLogLibrary1.csproj", "{443BCACC-968C-4D5A-9C8F-AB2EB381169D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UdemySwagger", "UdemySwagger", "{1CD01933-BD69-44CA-BF3A-191A82CEAD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemySwagger", "UdemySwagger\UdemySwagger.csproj", "{07C081E1-D1A2-4251-BBA1-C0057C973538}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,10 @@ Global
 		{443BCACC-968C-4D5A-9C8F-AB2EB381169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443BCACC-968C-4D5A-9C8F-AB2EB381169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443BCACC-968C-4D5A-9C8F-AB2EB381169D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C081E1-D1A2-4251-BBA1-C0057C973538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C081E1-D1A2-4251-BBA1-C0057C973538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C081E1-D1A2-4251-BBA1-C0057C973538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C081E1-D1A2-4251-BBA1-C0057C973538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +92,7 @@ Global
 		{A7DDA0E5-5DBE-49F6-8D10-C4CE59DD4BCB} = {B8436680-2B79-4D27-9219-E15A93C9F8C5}
 		{EDE02E39-314C-44B6-B424-A8537D50BF1C} = {A178F702-C28D-4D3F-A3CE-59E823E36D20}
 		{443BCACC-968C-4D5A-9C8F-AB2EB381169D} = {A178F702-C28D-4D3F-A3CE-59E823E36D20}
+		{07C081E1-D1A2-4251-BBA1-C0057C973538} = {1CD01933-BD69-44CA-BF3A-191A82CEAD1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7674B3A3-9CD3-4F14-A093-624E90AB2128}

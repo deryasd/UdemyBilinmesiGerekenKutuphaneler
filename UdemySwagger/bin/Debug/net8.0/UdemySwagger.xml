@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UdemySwagger</name>
+    </assembly>
+    <members>
+        <member name="M:UdemySwagger.Controllers.ProductsController.GetProducts">
+            <summary>
+            Bu endpoint tüm ürünleri listeler
+            </summary>
+            <remarks>
+            örnek url https://localhost:7134/api/Products
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:UdemySwagger.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Bu endpoint id'ye göre ürün getirir
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <response code="404"> verilen ürün bulunamadı</response>
+            <response code="200"> verilen id'ye sahip ürün var</response>
+        </member>
+        <member name="M:UdemySwagger.Controllers.ProductsController.PutProduct(System.Int32,UdemySwagger.Models.Product)">
+            <summary>
+            Bu endpoint id'ye göre ürün günceller
+            </summary>
+            <remarks>This method uses optimistic concurrency control. If a concurrency conflict occurs
+            during the update, the exception is rethrown unless the product does not exist.</remarks>
+        </member>
+        <member name="M:UdemySwagger.Controllers.ProductsController.PostProduct(UdemySwagger.Models.Product)">
+            <summary>
+            Bu endpoint yeni ürün ekler
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UdemySwagger.Controllers.ProductsController.DeleteProduct(System.Int32)">
+            <summary>
+            Bu endpoint id'ye göre ürün siler
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

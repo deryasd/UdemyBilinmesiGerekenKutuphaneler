@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\udemyswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\udemyswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\loggingnloglibrary1\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{443BCACC-968C-4D5A-9C8F-AB2EB381169D}|LoggingNLogLibrary1\\LoggingNLogLibrary1.csproj|solutionrelative:loggingnloglibrary1\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\udemyswagger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\udemyswagger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|c:\\users\\esind\\desktop\\udemybilinmesigerekenkutuphaneler\\udemyswagger\\models\\swaggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C081E1-D1A2-4251-BBA1-C0057C973538}|UdemySwagger\\UdemySwagger.csproj|solutionrelative:udemyswagger\\models\\swaggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +50,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nlog.config",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\nlog.config",
-              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\nlog.config",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\nlog.config",
-              "RelativeToolTip": "LoggingNLogLibrary1\\nlog.config",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-25T08:19:59.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "LoggingNLogLibrary1\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "UdemySwagger\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "UdemySwagger\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv18AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:41:24.489Z",
+              "WhenOpened": "2025-09-25T10:29:39.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Models\\Log.cs",
-              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Models\\Log.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Models\\Log.cs",
-              "RelativeToolTip": "LoggingNLogLibrary1\\Models\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Program.cs",
+              "RelativeDocumentMoniker": "UdemySwagger\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Program.cs",
+              "RelativeToolTip": "UdemySwagger\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:29:01.66Z",
+              "WhenOpened": "2025-09-25T10:26:23.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LoggingNLogLibrary1\\Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\LoggingNLogLibrary1\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "LoggingNLogLibrary1\\Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADrAAAAAAAAAA==",
+              "Title": "UdemySwagger",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\UdemySwagger.csproj",
+              "RelativeDocumentMoniker": "UdemySwagger\\UdemySwagger.csproj",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\UdemySwagger.csproj",
+              "RelativeToolTip": "UdemySwagger\\UdemySwagger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T10:43:20.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UdemySwagger",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\UdemySwagger.csproj",
+              "RelativeDocumentMoniker": "UdemySwagger\\UdemySwagger.csproj",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\UdemySwagger.csproj",
+              "RelativeToolTip": "UdemySwagger\\UdemySwagger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T10:36:24.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\appsettings.json",
+              "RelativeDocumentMoniker": "UdemySwagger\\appsettings.json",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\appsettings.json",
+              "RelativeToolTip": "UdemySwagger\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-25T10:24:43.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwaggerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Models\\SwaggerDbContext.cs",
+              "RelativeDocumentMoniker": "UdemySwagger\\Models\\SwaggerDbContext.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Models\\SwaggerDbContext.cs",
+              "RelativeToolTip": "UdemySwagger\\Models\\SwaggerDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T08:24:48.949Z",
+              "WhenOpened": "2025-09-25T10:24:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UdemySwagger\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\UdemyBilinmesiGerekenKutuphaneler\\UdemySwagger\\Models\\Product.cs",
+              "RelativeToolTip": "UdemySwagger\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:24:01.016Z",
               "EditorCaption": ""
             }
           ]
